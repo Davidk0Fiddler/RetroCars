@@ -156,6 +156,61 @@ a:link {
 }
 
 .banner-image {
+    background-image: url(images/bogár.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);
+}
+.banner-image1 {
+    background-image: url(images/kocsi1.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);
+}
+.banner-image2 {
+    background-image: url(images/kocsi2.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);   
+}
+.banner-image3 {
+    background-image: url(images/kocsi3.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);   
+}
+.banner-image3 {
+    background-image: url(images/kocsi3.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);    
+}
+.banner-image4 {
+    background-image: url(images/kocsi4.png)
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.255);
+}
+.banner-image5 {
+    background-image: url(images/kocsi5.png)
     background-position: center;
     background-size: cover;
     height: 300px;
